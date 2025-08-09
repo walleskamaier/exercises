@@ -14,7 +14,3 @@ while (i < listSize) {
   }
 }
 
-// rodei o código como tá agora e entrou em loop infinito
-// o que percebi foi que ele não saiu do 25, ou seja, ele não incrementou o índice (i) do array
-
-// a resolução foi incrementar o índice nos dois if e incluir o else
